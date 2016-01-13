@@ -1,2 +1,8 @@
 1. do now: search volunteers profiles and follow
 2. show the difference between git and github
+3. show a commit
+    a. make a file
+    b. show status
+    c.  "   add
+    d.  "   commit
+    e.  "   push
